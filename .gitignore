@@ -5,6 +5,4 @@
 /build
 /captures
 
-.idea/
-!.idea/copyright/*.xml
-!.idea/codeStyleSettings.xml
+.idea
